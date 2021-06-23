@@ -16,9 +16,9 @@ Em seguida, detalharemos por tópicos cada parte constituinte desse projeto. Aco
 
 ### Microcontroladores
 
-- Protótipo
+- #### Protótipo
   - Arduíno
-- Versão oficial
+- #### Versão oficial
   - Raspberrry Pi
   
 ### Materiais utilizados
