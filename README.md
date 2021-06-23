@@ -17,9 +17,10 @@ Em seguida, detalharemos por tópicos cada parte constituinte desse projeto. Aco
 ### Microcontroladores
 
 - Protótipo
-  Arduíno
+  - Arduíno
+
 - Versão oficial
-  Raspberrry Pi
+  - Raspberrry Pi
   
 ### Materiais utilizados
 
@@ -31,4 +32,5 @@ Em seguida, detalharemos por tópicos cada parte constituinte desse projeto. Aco
   - Cano PVC;
   - Cap PVC;
   - Arduíno.
+
 - Versão oficial
