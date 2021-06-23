@@ -50,11 +50,11 @@ Em seguida, detalharemos por tópicos cada parte constituinte desse projeto. Aco
 
 ## Instalação do YOLOv5
 
-1. Criar um enviroment com o Python 3.7;
+1. Criar um enviroment com o [Python 3.7](https://www.python.org/downloads/release/python-370/);
 2. Fazer o download do repositório do [YOLOv5](https://github.com/ultralytics/yolov5);
-3. Instalar o arquivo adaptado 'requirements.txt';
-4. Instalar a biblioteca 'pandas';
-5. Instalar biblioteca 'seaborn';
-6. Instalar biblioteca 'pycocotools';
-7. Instalar biblioteca 'thop';
+3. Instalar o arquivo adaptado 'requirements.txt' ;
+4. Instalar a biblioteca 'pandas' ;
+5. Instalar biblioteca 'seaborn' ;
+6. Instalar biblioteca 'pycocotools' ;
+7. Instalar biblioteca 'thop' ;
 8. Rodar o YOLOv5
