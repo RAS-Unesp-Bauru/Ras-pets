@@ -42,3 +42,19 @@ Em seguida, detalharemos por tópicos cada parte constituinte desse projeto. Aco
 
 -
 - Adaptação do arquivo de requerimentos para focar no objetivo do projeto em utilizar o YOLO.
+
+### Ferramentas utilizadas para o software
+
+- YOLOv5;
+- Anaconda.
+
+## Instalação do YOLOv5
+
+1. Criar um enviroment com o Python 3.7;
+2. Fazer o download do repositório do [YOLOv5](https://github.com/ultralytics/yolov5);
+3. Instalar o arquivo adaptado 'requirements.txt';
+4. Instalar a biblioteca 'pandas';
+5. Instalar biblioteca 'seaborn';
+6. Instalar biblioteca 'pycocotools';
+7. Instalar biblioteca 'thop';
+8. Rodar o YOLOv5
