@@ -18,7 +18,6 @@ Em seguida, detalharemos por tópicos cada parte constituinte desse projeto. Aco
 
 - Protótipo
   - Arduíno
-
 - Versão oficial
   - Raspberrry Pi
   
@@ -32,5 +31,4 @@ Em seguida, detalharemos por tópicos cada parte constituinte desse projeto. Aco
   - Cano PVC;
   - Cap PVC;
   - Arduíno.
-
 - Versão oficial
