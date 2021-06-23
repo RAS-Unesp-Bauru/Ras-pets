@@ -9,3 +9,26 @@ O projeto **RAS-Pets** é um comedouro automático que tem como objetivo inovar 
 ### Aplicação
 
 > É destinado para uso restrito, como em residências, centros de zoonoses e abrigo para animais abandonados.
+
+## Processo de estruturação
+
+Em seguida, detalharemos por tópicos cada parte constituinte desse projeto. Acompanhe:
+
+### Microcontroladores
+
+- Protótipo
+  Arduíno
+- Versão oficial
+  Raspberrry Pi
+  
+### Materiais utilizados
+
+- Protótipo
+  - Madeira;
+  - Serra tico-tico;
+  - Parafusos;
+  - Furadeira;
+  - Cano PVC;
+  - Cap PVC;
+  - Arduíno.
+- Versão oficial
