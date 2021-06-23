@@ -16,9 +16,9 @@ Em seguida, detalharemos por tópicos cada parte constituinte desse projeto. Aco
 
 ### Microcontroladores
 
-- #### Protótipo
+- Protótipo
   - Arduíno
-- #### Versão oficial
+- Versão oficial
   - Raspberrry Pi
   
 ### Materiais utilizados
@@ -32,3 +32,13 @@ Em seguida, detalharemos por tópicos cada parte constituinte desse projeto. Aco
   - Cap PVC;
   - Arduíno.
 - Versão oficial
+
+### Dificuldades encontradas
+
+- Construção do hardware, referente ao mecanismo de liberação de comida;
+- Erros no processo de instalação do YOLO.
+
+### Soluções encontradas
+
+-
+- Adaptação do arquivo de requerimentos para focar no objetivo do projeto em utilizar o YOLO.
