@@ -58,3 +58,12 @@ Em seguida, detalharemos por tópicos cada parte constituinte desse projeto. Aco
 6. Instalar biblioteca `pycocotools`;
 7. Instalar biblioteca `thop`;
 8. Rodar o YOLOv5.
+
+
+
+```
+pip install pandas
+
+import time
+import cv2
+```
