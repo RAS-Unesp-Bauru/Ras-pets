@@ -51,33 +51,41 @@ Em seguida, detalharemos por tópicos cada parte constituinte desse projeto. Aco
 ## Instalação do YOLOv5
 
 1° - Criar o environment do Conda com o python 3.7:
+
 `conda create -n myenv python=3.7`
 
 
 2° - Clonar o Repositório:
+
 `git clone https://github.com/RAS-Unesp-Bauru/Ras-pets`
 
 
 3° - Instalar o arquivo "requirements.txt":
+
 `pip install -r requirements.txt`
 
 
 4° - Instalar a biblioteca pandas:
+
 `pip install pandas`
 
 
 5° - Instalar a biblioteca seaborn:
+
 `pip install seaborn`
 
 
 6° - Instalar o "cocotools":
+
 `pip install pycocotools`
 
 
 7° - Instalar a biblioteca thop:
+
 `pip install thop`
 
 
 8° - Rodar o código:
+
 `python detect.py --source 0 --weights yolov5s.pt --conf 0.25 --classes 0`
 
