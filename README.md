@@ -79,5 +79,5 @@ Em seguida, detalharemos por tópicos cada parte constituinte desse projeto. Aco
 
 
 8° - Rodar o código:
-`python detect.py --source 0 --weights yolov5s.pt --conf 0.25 --classes 0
+`python detect.py --source 0 --weights yolov5s.pt --conf 0.25 --classes 0`
 
