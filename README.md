@@ -33,15 +33,6 @@ Em seguida, detalharemos por tópicos cada parte constituinte desse projeto. Aco
   - Arduíno.
 - Versão oficial
 
-### Dificuldades encontradas
-
-- Construção do hardware, referente ao mecanismo de liberação de comida;
-- Erros no processo de instalação do YOLO.
-
-### Soluções encontradas
-
-
-- Adaptação do arquivo de requerimentos para focar no objetivo do projeto em utilizar o YOLO.
 
 ### Ferramentas utilizadas para o software
 
