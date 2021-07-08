@@ -40,7 +40,7 @@ Em seguida, detalharemos por tópicos cada parte constituinte desse projeto. Aco
 
 ### Soluções encontradas
 
--
+
 - Adaptação do arquivo de requerimentos para focar no objetivo do projeto em utilizar o YOLO.
 
 ### Ferramentas utilizadas para o software
