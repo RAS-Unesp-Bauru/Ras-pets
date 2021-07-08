@@ -39,7 +39,7 @@ Em seguida, detalharemos por tópicos cada parte constituinte desse projeto. Aco
 - YOLOv5;
 - Anaconda.
 
-## Instalação do YOLOv5
+## Instalação dos Pré-requisitos
 
 1° - Criar o environment do Conda com o python 3.7:
 
