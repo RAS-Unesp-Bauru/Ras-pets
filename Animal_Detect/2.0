@@ -1,0 +1,19 @@
+Collecting pycocotools
+  Using cached pycocotools-2.0.2.tar.gz (23 kB)
+Requirement already satisfied: setuptools>=18.0 in c:\users\irisg\anaconda3\lib\site-packages (from pycocotools) (49.2.0.post20200714)
+Requirement already satisfied: cython>=0.27.3 in c:\users\irisg\anaconda3\lib\site-packages (from pycocotools) (0.29.21)
+Requirement already satisfied: matplotlib>=2.1.0 in c:\users\irisg\anaconda3\lib\site-packages (from pycocotools) (3.2.2)
+Requirement already satisfied: cycler>=0.10 in c:\users\irisg\anaconda3\lib\site-packages (from matplotlib>=2.1.0->pycocotools) (0.10.0)
+Requirement already satisfied: python-dateutil>=2.1 in c:\users\irisg\appdata\roaming\python\python38\site-packages (from matplotlib>=2.1.0->pycocotools) (2.8.1)
+Requirement already satisfied: kiwisolver>=1.0.1 in c:\users\irisg\anaconda3\lib\site-packages (from matplotlib>=2.1.0->pycocotools) (1.2.0)
+Requirement already satisfied: pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=2.0.1 in c:\users\irisg\appdata\roaming\python\python38\site-packages (from matplotlib>=2.1.0->pycocotools) (2.4.7)
+Requirement already satisfied: numpy>=1.11 in c:\users\irisg\anaconda3\lib\site-packages (from matplotlib>=2.1.0->pycocotools) (1.18.5)
+Requirement already satisfied: six in c:\users\irisg\appdata\roaming\python\python38\site-packages (from cycler>=0.10->matplotlib>=2.1.0->pycocotools) (1.15.0)
+Building wheels for collected packages: pycocotools
+  Building wheel for pycocotools (setup.py): started
+  Building wheel for pycocotools (setup.py): finished with status 'done'
+  Created wheel for pycocotools: filename=pycocotools-2.0.2-cp38-cp38-win_amd64.whl size=77384 sha256=29af822760a3525c60fcee0e5ff7a5019f033ba65885ca2c6793c5cedb1b38d4
+  Stored in directory: c:\users\irisg\appdata\local\pip\cache\wheels\e7\77\b2\6f38b5bea571cd8f4689f91a7c1ed2eaecb2c2ce17f9945b17
+Successfully built pycocotools
+Installing collected packages: pycocotools
+Successfully installed pycocotools-2.0.2
